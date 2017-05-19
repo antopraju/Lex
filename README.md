@@ -1,7 +1,7 @@
 # Lex
-Lex Programs
+Lex Programs <br/>
 
-Steps to run the lex Programs
-$lex program_name.l
-$gcc lex.yy.c -ll
+Steps to run the lex Programs <br/>
+$lex program_name.l <br/>
+$gcc lex.yy.c -ll <br />
 $./a.out
